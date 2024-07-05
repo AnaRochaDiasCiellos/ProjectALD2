@@ -1,0 +1,17 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: ProjectALD2 by Ciellos (1.0.0.0)
+baseKind: Module
+kind: Module
+objectProperties:
+- name: Version
+  value: 1.0.0.0
+  promoted: false
+- name: Publisher
+  value: Ciellos
+  promoted: false
+- name: Brief
+  value: <Brief description>
+  promoted: false
+summary: <Full description>
+name: ProjectALD2
+uid: N:Module::ProjectALD2
